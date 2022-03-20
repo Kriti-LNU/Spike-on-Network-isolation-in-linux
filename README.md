@@ -1,0 +1,2 @@
+# Spike-on-Network-isolation-in-linux
+The basic firewall software most used in Linux is called iptables. Iptables is a command line interface used to set up and maintain tables for the Netfilter firewall in the Linux kernel. The firewall matches packets with rules defined in the tables and then takes the specified action on a possible match. By learning about iptables, you can better utilize them to control and secure your server environments.
